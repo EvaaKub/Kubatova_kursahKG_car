@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kubatova_kursahKG_car", "Kubatova_kursahKG_car.vcxproj", "{C414AF61-C2FD-4F52-9DD8-9D6CC9AB27EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C414AF61-C2FD-4F52-9DD8-9D6CC9AB27EB}.Debug|x64.ActiveCfg = Debug|x64
+		{C414AF61-C2FD-4F52-9DD8-9D6CC9AB27EB}.Debug|x64.Build.0 = Debug|x64
+		{C414AF61-C2FD-4F52-9DD8-9D6CC9AB27EB}.Debug|x86.ActiveCfg = Debug|Win32
+		{C414AF61-C2FD-4F52-9DD8-9D6CC9AB27EB}.Debug|x86.Build.0 = Debug|Win32
+		{C414AF61-C2FD-4F52-9DD8-9D6CC9AB27EB}.Release|x64.ActiveCfg = Release|x64
+		{C414AF61-C2FD-4F52-9DD8-9D6CC9AB27EB}.Release|x64.Build.0 = Release|x64
+		{C414AF61-C2FD-4F52-9DD8-9D6CC9AB27EB}.Release|x86.ActiveCfg = Release|Win32
+		{C414AF61-C2FD-4F52-9DD8-9D6CC9AB27EB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61E0942E-2082-4D12-A564-0FEEEFA3D1FE}
+	EndGlobalSection
+EndGlobal
